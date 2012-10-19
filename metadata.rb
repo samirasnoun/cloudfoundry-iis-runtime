@@ -9,7 +9,7 @@ version          "0.0.6"
   supports os
 end
 
-%w{ rbenv }.each do |cb|
+%w{ iis }.each do |cb|
   depends cb
 end
               

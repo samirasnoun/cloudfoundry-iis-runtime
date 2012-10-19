@@ -6,5 +6,5 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-include_recipe "cloudfoundry-dotnet-runtime::iis"
+#include_recipe "cloudfoundry-dotnet-runtime::iis"
 
